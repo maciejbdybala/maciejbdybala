@@ -10,7 +10,7 @@ Hi! My name is Maciej Dybala, I currently work as an assistant statistician for 
 - 📫 How to reach me:
   - my email address is maciej dot dybala at gmail dot com.
   - I also have a profile on [LinkedIn](https://www.linkedin.com/in/maciej-d-62743a65?trk=contact-info)
-<!--  - as well as [Mastodon](https://mastodon.social/@maciejdybala) -->
+  - as well as [Mastodon](https://fosstodon.org/@maciejdybala)
 - 😄 Pronouns: I don't mind at all, though the creature of habit part of me goes by he/him
 - ⚡ Fun fact: I do 201 [burpees](https://www.youtube.com/watch?v=uAbWhiuFYt4) everyday!
 
