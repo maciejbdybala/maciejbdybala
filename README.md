@@ -12,5 +12,5 @@ Hi! My name is Maciej Dybala, I currently work as an assistant statistician for 
   - I also have a profile on [LinkedIn](https://www.linkedin.com/in/maciej-d-62743a65/)
   - as well as [Mastodon](https://fosstodon.org/@maciejdybala)
 - 😄 Pronouns: I don't mind at all, though the creature of habit part of me goes by he/him
-- ⚡ Fun fact: I do 201 [burpees](https://www.youtube.com/watch?v=uAbWhiuFYt4) everyday!
+- ⚡ Fun fact: I do 1206 [burpees](https://www.youtube.com/watch?v=uAbWhiuFYt4) (plus other exercises) every~~day~~ week!
 
